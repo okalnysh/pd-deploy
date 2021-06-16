@@ -1,0 +1,6 @@
+{
+    "pipedrive_site" : "pft.lgfg.local",
+    "working_dir" : "C:\\usr\\jenkins\\workspace\\pipedrive.prod",
+    "configs_dir" : "C:\\usr\\jenkins\\configs\\prod",
+	"build_client_command" : "build"
+}

@@ -1,0 +1,6 @@
+{
+    "pipedrive_site" : "qft.lgfg.local",
+    "working_dir" : "C:\\usr\\jenkins\\workspace\\pipedrive.test",
+    "configs_dir" : "C:\\usr\\jenkins\\configs\\qa",
+	"build_client_command" : "build-test"
+}

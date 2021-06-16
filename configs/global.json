@@ -1,0 +1,9 @@
+{
+	"cmd": {
+		"webdeploy" : "C:\\Program Files (x86)\\IIS\\Microsoft Web Deploy V3\\msdeploy.exe"
+	},
+	"path": {
+		"maintenance_html" : "C:\\usr\\jenkins\\configs\\App_offline.htm",
+		"empty_dir" : "C:\\usr\\jenkins\\workspace\\empty"
+	}
+}
